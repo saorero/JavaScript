@@ -1,5 +1,5 @@
 ****LINK FOR THE GITHUB PAGE****
-        ()
+        (https://saorero.github.io/JavaScript/)
 
 document.write("STUDENT INFORMATION<br>")
 document.write("NAME: Shidmah Akeyo Orero <br>")
