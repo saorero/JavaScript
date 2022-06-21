@@ -1,3 +1,4 @@
-console.log("NAME: Shidmah Akeyo Orero")
-console.log("HEIGHT: 5.6 feet")
-console.log("COUNTRY: Kenya");
+document.write("STUDENT INFORMATION<br>")
+document.write("NAME: Shidmah Akeyo Orero <br>")
+document.write("HEIGHT: 5.6 feet<br>")
+document.write("COUNTRY: Kenya");
